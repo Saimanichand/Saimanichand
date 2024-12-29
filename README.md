@@ -8,7 +8,7 @@
 
 ### 👀 Interests:
 - **Technical Interests**: Software Development, AI, Web Development.  
-- **Personal Interests**: Cooking, traveling, video editing, fitness, and working out.  
+- **Personal Interests**: Cooking, traveling, video editing, fitness.  
 
 
 
@@ -37,6 +37,6 @@
 
 
 ### ⚡ Fun Fact:
-I love combining my passion for travel and trying new recipes from different places I visit.
+I love exploring new recipes inspired by the places I travel to.
 
 
